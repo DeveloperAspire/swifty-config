@@ -218,6 +218,7 @@ async function init() {
     case 'yarn':
       console.log('  yarn')
       console.log('  yarn dev')
+      console.log(cyan("  Happy Coding ⚡️"))
       break
     default:
       console.log(`  ${pkgManager} install`)
