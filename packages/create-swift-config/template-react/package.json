@@ -1,0 +1,45 @@
+{
+  "name": "react-config",
+  "version": "1.0.0",
+  "description": "An already-made React Infrastruture and Architecture template  for development and production",
+  "source": "public/index.html",
+  "scripts": {
+    "dev": "parcel --port 3000",
+    "build": "parcel build",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
+    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --quiet",
+    "lint:style": "stylelint \"src/**/*.{scss,css}\""
+  },
+  "keywords": [
+    "react",
+    "frontend",
+    "open-source"
+  ],
+  "author": "Franklin Okolie",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/compressor-raw": "^2.6.0",
+    "@parcel/transformer-sass": "2.6.0",
+    "eslint": "^8.17.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.30.0",
+    "eslint-plugin-react-hooks": "^4.5.0",
+    "parcel": "^2.6.0",
+    "prettier": "^2.6.2",
+    "process": "^0.11.10",
+    "stylelint": "^14.9.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-prettier-scss": "^0.0.1",
+    "stylelint-config-standard": "^26.0.0",
+    "stylelint-config-standard-scss": "^4.0.0",
+    "stylelint-scss": "^4.2.0"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}

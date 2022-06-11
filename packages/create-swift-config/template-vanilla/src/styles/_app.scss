@@ -1,0 +1,28 @@
+
+.container {
+  background-color: inherit;
+  color: white;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__heading {
+    @include heading;
+
+    margin: to-rem(20px) 0;
+    background: $bg-gradient;
+    background-clip: text;
+    color: transparent;
+  }
+
+  &__text {
+    @include text;
+  }
+
+  &__content {
+    text-align: center;
+  }
+}
+
+

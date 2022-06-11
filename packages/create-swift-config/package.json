@@ -1,0 +1,33 @@
+{
+  "name": "create-swift-config",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Franklin Okolie",
+  "bin": {
+    "create-swift-config": "index.js",
+    "csc": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeveloperAspire/swift-config.git",
+    "directory": "packages/create-vite"
+  },
+  "bugs": {
+    "url": "https://github.com/DeveloperAspire/swift-config/issues"
+  },
+  "homepage": "https://github.com/DeveloperAspire/swift-config",
+  "dependencies": {
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "prompts": "^2.4.2"
+  }
+}

@@ -1,0 +1,10 @@
+/* stylelint-disable-next-line import-notation */
+// @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600&display=swap");
+
+@mixin heading {
+  font-size: to-rem(90px);
+}
+
+@mixin text {
+  font-size: to-rem(20px);
+}
