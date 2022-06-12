@@ -1,7 +1,6 @@
 {
   "name": "react-config",
   "version": "1.0.0",
-  "description": "An already-made React Infrastruture and Architecture template  for development and production",
   "source": "public/index.html",
   "scripts": {
     "dev": "parcel --port 3000",
