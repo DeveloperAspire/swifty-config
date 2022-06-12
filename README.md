@@ -1,33 +1,58 @@
-# Getting Started with ⚡️ Swift Config
+# ⚡️ Swift Config
+<!-- <p align="center">
+  <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
+  <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
+  <a href="https://github.com/vitejs/vite/actions/workflows/ci.yml"><img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main" alt="build status"></a>
+  <a href="https://chat.vitejs.dev"><img src="https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord" alt="discord chat"></a>
+</p>
+<br/> -->
 
-This project was bootstrapped with 🛠️ [⚡️ Swift Config](https://github.com/DeveloperAspire/swift-config).
+> With one command, setup your Frontend project with additional configuration out of the box.
 
-## Commands to execute.
+# What does this do?
+See this as create-react-app with extra, I know you are tired from having to setup prettier, Eslint e.t.c all the time, or you are tired of doing the same thing all over and over again, I created this to help, personally as a side project to help myself, but then you might need it.
 
-In the project directory, you can run the following commands:
+> **Compatibility Note:**
+> ⚡️ Swift Config requires [Node.js](https://nodejs.org/en/) version >=14.6.0. Some other in this project may request higher Node.js version to work, follow the insturctions to upgrade your package manager when you see the error or warning about it.
 
-### `yarn dev`
+## Using ⚡️ Swift Config for the first time.
 
-Runs the app in the development mode 🚀.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+With NPM:
 
-The page will reload when changes are made to any file in the application.\
-You may also see any lint errors in the console.
+```bash
+$ npm create swift-config
+```
 
-### `yarn build`
+With Yarn:
 
-Builds the app for production to the `dist` folder.\
-It correctly bundles the application in production mode, and optimizes the build for the best performance 📦.
+```bash
+$ yarn create swift-config
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Then follow the prompts to setup the project!
+
+## Currently avaliable template include:
+
+- `vanilla`
+- `vanilla-ts`
+- `react`
+- `react-ts`
+
+This will be updated with more templates.
+
+You can use `.` for the project name to scaffold in the current directory.
+
 
 ## What more can you do?
 
-If you love this project and the setup, it will be okay to give this project a star on Github and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
+If you love this project and the setup, it will be okay to give this project a star on [Github](https://github.com/DeveloperAspire/swift-config). and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
 
 ## What more can you expect?
 
 More frameworks and templates will be added and also more configurations and also I will be improving this to be more world classish.
+
+## Contributions??
+
+Coming soon!!! Cause I need your help to make it better!.
 
 Created by [Franklin Okolie](https://github.com/DeveloperAspire)
