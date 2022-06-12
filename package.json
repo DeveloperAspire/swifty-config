@@ -1,11 +1,11 @@
 {
   "name": "create-swifty-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "license": "MIT",
   "author": "Franklin Okolie",
   "bin": {
-    "create-swift-config": "index.js",
+    "create-swifty-config": "index.js",
     "csc": "index.js"
   },
   "files": [

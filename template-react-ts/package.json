@@ -1,5 +1,5 @@
 {
-  "name": "react-config",
+  "name": "template-react-ts",
   "version": "1.0.0",
   "source": "public/index.html",
   "scripts": {
@@ -10,12 +10,8 @@
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --quiet",
     "lint:style": "stylelint \"src/**/*.{scss,css}\""
   },
-  "keywords": [
-    "react",
-    "frontend",
-    "open-source"
-  ],
-  "author": "Franklin Okolie",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@parcel/compressor-raw": "^2.6.0",
