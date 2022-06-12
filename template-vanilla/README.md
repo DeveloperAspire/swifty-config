@@ -1,6 +1,6 @@
-# Getting Started with ⚡️ Swift Config
+# Getting Started with ⚡️ Swifty Config
 
-This project was bootstrapped with 🛠️ [⚡️ Swift Config](https://github.com/DeveloperAspire/swift-config).
+This project was bootstrapped with 🛠️ [⚡️ Swift Config](https://github.com/DeveloperAspire/swifty-config).
 
 ## Commands to execute.
 
@@ -24,7 +24,7 @@ Your app is ready to be deployed!
 
 ## What more can you do?
 
-If you love this project and the setup, it will be okay to give this project a star on [Github](https://github.com/DeveloperAspire/swift-config). and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
+If you love this project and the setup, it will be okay to give this project a star on [Github](https://github.com/DeveloperAspire/swifty-config). and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
 
 ## What more can you expect?
 
