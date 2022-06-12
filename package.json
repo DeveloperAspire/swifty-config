@@ -18,13 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DeveloperAspire/swift-config.git",
-    "directory": "packages/create-vite"
+    "url": "https://github.com/DeveloperAspire/swift-config.git"
   },
   "bugs": {
     "url": "https://github.com/DeveloperAspire/swift-config/issues"
   },
-  "homepage": "https://github.com/DeveloperAspire/swift-config",
+  "homepage": "https://github.com/DeveloperAspire/swift-config#readme",
   "dependencies": {
     "kolorist": "^1.5.1",
     "minimist": "^1.2.6",
