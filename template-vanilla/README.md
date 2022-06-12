@@ -1,19 +1,33 @@
-This is a Frontend game built with JavaScript, the game play is actually based on tyring to keep the Fox alive (Object of the game) by feeding, and caring for it as humans would do to a pet.
+# Getting Started with ⚡️ Swift Config
 
-This project was for practice while I was learning how to build intentionally using techniques that will help me build well like choosing the right Frontend Infastructures, Frontend Architecture, because I was able to try and bring out the best code possible
+This project was bootstrapped with 🛠️ [⚡️ Swift Config](https://github.com/DeveloperAspire/swift-config).
 
-## To run this locally
+## Commands to execute.
 
-Run `yarn dev`
+In the project directory, you can run the following commands:
 
-Unfortunately there is no live version.
+### `yarn dev`
 
-## How to advanced this?
-* Unit tests.
-* Splitting the Code and Styles into more files.
-* Make it more accessible.
-* Add a State Machine that manages states.
-* Use TypeScript for Type Safety.
-* Replicate using any Frontend Framework.
-* Replicate using a Backend Framework.
-* Using LocalStorage to Store state for a users when they pause e.t.c.
+Runs the app in the development mode 🚀.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when changes are made to any file in the application.\
+You may also see any lint errors in the console.
+
+### `yarn build`
+
+Builds the app for production to the `dist` folder.\
+It correctly bundles the application in production mode, and optimizes the build for the best performance 📦.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+## What more can you do?
+
+If you love this project and the setup, it will be okay to give this project a star on Github and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
+
+## What more can you expect?
+
+More frameworks and templates will be added and also more configurations and also I will be improving this to be more world classish.
+
+Created by [Franklin Okolie](https://github.com/DeveloperAspire)
