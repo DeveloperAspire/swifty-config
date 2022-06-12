@@ -1,6 +1,6 @@
 {
-  "name": "create-swift-config",
-  "version": "1.2.0",
+  "name": "create-swifty-config",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "author": "Franklin Okolie",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DeveloperAspire/swift-config.git"
+    "url": "https://github.com/DeveloperAspire/swifty-config.git"
   },
   "bugs": {
-    "url": "https://github.com/DeveloperAspire/swift-config/issues"
+    "url": "https://github.com/DeveloperAspire/swifty-config/issues"
   },
-  "homepage": "https://github.com/DeveloperAspire/swift-config#readme",
+  "homepage": "https://github.com/DeveloperAspire/swifty-config#readme",
   "dependencies": {
     "kolorist": "^1.5.1",
     "minimist": "^1.2.6",

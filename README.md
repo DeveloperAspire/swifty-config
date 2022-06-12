@@ -1,4 +1,4 @@
-# ⚡️ Swift Config
+# ⚡️ Swifty Config
 <!-- <p align="center">
   <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
   <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
@@ -13,20 +13,20 @@
 See this as create-react-app with extra, I know you are tired from having to setup prettier, Eslint e.t.c all the time, or you are tired of doing the same thing all over and over again, I created this to help, personally as a side project to help myself, but then you might need it.
 
 > **Compatibility Note:**
-> ⚡️ Swift Config requires [Node.js](https://nodejs.org/en/) version >=14.6.0. Some other in this project may request higher Node.js version to work, follow the insturctions to upgrade your package manager when you see the error or warning about it.
+> ⚡️ Swifty Config requires [Node.js](https://nodejs.org/en/) version >=14.6.0. Some other in this project may request higher Node.js version to work, follow the insturctions to upgrade your package manager when you see the error or warning about it.
 
-## Using ⚡️ Swift Config for the first time.
+## Using ⚡️ Swifty Config for the first time.
 
 With NPM:
 
 ```bash
-$ npm create swift-config
+$ npm create swifty-config
 ```
 
 With Yarn:
 
 ```bash
-$ yarn create swift-config
+$ yarn create swifty-config
 ```
 
 Then follow the prompts to setup the project!
@@ -45,7 +45,7 @@ You can use `.` for the project name to scaffold in the current directory.
 
 ## What more can you do?
 
-If you love this project and the setup, it will be okay to give this project a star on [Github](https://github.com/DeveloperAspire/swift-config). and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
+If you love this project and the setup, it will be okay to give this project a star on [Github](https://github.com/DeveloperAspire/swifty-config). and share with friends as this will help make the project more avaliable and popular and yeah, helps boost my little ego 🧑‍💻
 
 ## What more can you expect?
 
