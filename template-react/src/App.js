@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className={styles["container"]}>
       <div className={styles["container__content"]}>
-        <h1 className={styles["container__heading"]}>⚡️ Swift Config</h1>
+        <h1 className={styles["container__heading"]}>⚡️ Swifty Config</h1>
         <p className={styles["container__text"]}>
           A Frontend project configuration tool 🛠️.
         </p>
