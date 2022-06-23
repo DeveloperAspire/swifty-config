@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/compressor-raw": "^2.6.0",
-    "@parcel/transformer-sass": "2.6.0",
+    "@parcel/compressor-raw": "latest",
+    "@parcel/transformer-sass": "latest",
     "eslint": "^8.17.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
