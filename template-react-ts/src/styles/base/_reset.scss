@@ -15,6 +15,10 @@
 }
 
 /* Set core body defaults */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   min-height: 100vh;
   text-rendering: optimizespeed;
