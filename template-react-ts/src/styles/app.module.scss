@@ -14,8 +14,9 @@
     @include heading;
 
     margin: to-rem(20px) 0;
-    background: $bg-gradient;
+    background-image: $bg-gradient;
     background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
   }
 
