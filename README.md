@@ -56,6 +56,10 @@ Coming soon!!! Cause I need your help to make it better!.
 
 Created by [Franklin Okolie](https://github.com/DeveloperAspire)
 
+## ⚖️ Licence
+
+MIT (c) [Franklin Okolie](https://github.com/DeveloperAspire).
+
 
 <!-- <p align="center">
   <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
