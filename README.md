@@ -3,6 +3,7 @@
 > With one command, setup your Frontend project with additional configuration out of the box.
 
 # What does this do?
+
 See this as create-react-app with extra, I know you are tired from having to setup prettier, Eslint e.t.c all the time, or you are tired of doing the same thing all over and over again, I created this to help, personally as a side project to help myself, but then you might need it.
 
 > **Compatibility Note:**
@@ -36,11 +37,11 @@ Then follow the prompts to setup the project!
 - `vanilla-ts`
 - `react`
 - `react-ts`
+- `next`
 
 This will be updated with more templates.
 
 You can use `.` for the project name to scaffold in the current directory.
-
 
 ## What more can you do?
 
@@ -59,7 +60,6 @@ Created by [Franklin Okolie](https://github.com/DeveloperAspire)
 ## ⚖️ Licence
 
 MIT (c) [Franklin Okolie](https://github.com/DeveloperAspire).
-
 
 <!-- <p align="center">
   <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
