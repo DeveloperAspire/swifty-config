@@ -12,6 +12,7 @@ import {
   green,
   lightRed,
   magenta,
+  gray,
   red,
   reset,
   yellow,
@@ -51,6 +52,22 @@ const FRAMEWORKS = [
       },
       {
         name: "react-ts",
+        display: "TypeScript",
+        color: blue,
+      },
+    ],
+  },
+  {
+    name: "next",
+    color: gray,
+    variants: [
+      {
+        name: "next",
+        display: "JavaScript",
+        color: yellow,
+      },
+      {
+        name: "next-ts",
         display: "TypeScript",
         color: blue,
       },
