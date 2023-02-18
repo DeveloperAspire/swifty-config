@@ -1,6 +1,6 @@
-# template-next
+# template-next-ts
 
-This is the Next.js template of the Swifty Config.
+This is the Next.js TypeScript template of the Swifty Config.
 
 There are two variations, the JavaScript variant &mdash; which gets listed as `next`, when you run the swifty-config command &mdash; and the TypeScript variant, which is listed as `next-ts`
 
